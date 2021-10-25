@@ -1,0 +1,15 @@
+[
+{
+  "modid": "<%= modid %>",
+  "name": "<%= modname %>",
+  "description": "<%= description %>",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "authorList": [ "<%= author %>" ],
+  "credits": "<%= credits %>",
+  "parent": "",
+  "screenshots": [],
+  "dependencies": [],
+  "requiredMods": [ "forge" ]
+}
+]

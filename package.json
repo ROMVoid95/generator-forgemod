@@ -1,0 +1,24 @@
+{
+  "name": "generator-forgemod",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CyclopsMC/generator-forgemod"
+  },
+  "author": "ROMVoid95",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CyclopsMC/generator-forgemod/issues"
+  },
+  "homepage": "https://github.com/CyclopsMC/generator-forgemod",
+  "files": [
+    "generators/mod"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^0.21.1"
+  }
+}
